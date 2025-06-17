@@ -1,5 +1,5 @@
 <html>
  <body>
-  <h2>Hello world, welcome to jenkins freestyle deployment to tomcat server and we changed github webhook URl</h2>
+  <h2>Hello class we have succesfully deployed the war file through jenkins</h2>
  </body>
 </html>
